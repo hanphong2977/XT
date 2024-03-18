@@ -136,7 +136,7 @@
     background-color: transparent;
 }
 
-.to h2 {
+.to.h2 {
     margin-left: 112.5px;
     margin-top: 50px;
     margin-bottom: 30px;
@@ -155,7 +155,7 @@ input {
     margin-left: 112.5px;
     width: 70%;
     border: none;
-    font-size: 10px;
+    font-size: 20px;
     outline-style: none;
     border-bottom: 2px solid #ad9551;
 }
