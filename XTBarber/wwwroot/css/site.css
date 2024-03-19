@@ -8,11 +8,8 @@
 }
 
 @media {
-
-
-
-
 }
+
 .section_title h3 {
     font-size: 50px;
     font-weight: 400;
@@ -57,7 +54,7 @@
 }
 
 .card {
-    position: relative; 
+    position: relative;
     width: 390px;
     height: 500px;
     border-radius: 5px;
@@ -88,7 +85,7 @@
         background-image: url(../img/staff_bg_hover.png);
         width: 350px;
         height: 155px;
-        background-image: url(../image/staff_bg_hover.png) ;
+        background-image: url(../image/staff_bg_hover.png);
         padding-top: 57px;
         margin: 0 auto;
         left: 0;
@@ -105,7 +102,6 @@
 
 
 .staff_name_title_text {
-  
     font-family: "Oswald";
     color: #fff;
     font-style: normal;
@@ -142,7 +138,7 @@
     margin-bottom: 30px;
 }
 
-label {
+.to label {
     margin-left: 112.5px;
     margin-top: 30px;
     margin-bottom: 5px;
@@ -352,16 +348,17 @@ input {
     align-items: center;
 }
 
-.icon_title.span {
-    color: #ad9551;
-    font-weight: 500;
-}
+    .icon_title.span {
+        color: #ad9551;
+        font-weight: 500;
+    }
 
-.icon_title.h6 {
-    font-weight: 600;
-    margin-top: 20px;
-    margin-bottom: 3px;
-}
+    .icon_title.h6 {
+        font-weight: 600;
+        margin-top: 20px;
+        margin-bottom: 3px;
+    }
+
 .icon_banggia {
     border-radius: 60px;
     box-shadow: 0px 0px 14px 0px #ad9551;
@@ -377,12 +374,12 @@ input {
 }
 
 
-.herocap.h2{
-    display: block;
-    font-family: oswald;
-    color: white;
-    border-radius: 10px;
-}
+    .herocap.h2 {
+        display: block;
+        font-family: oswald;
+        color: white;
+        border-radius: 10px;
+    }
 
 
 .slider {
@@ -555,6 +552,7 @@ input {
     padding-left: 20px;
     padding-right: 20px;
 }
+
     .Momo:hover {
         color: black;
     }
@@ -577,4 +575,5 @@ input {
     .COD:hover {
         color: black;
         background-color: #ad9551;
-}
+    }
+
