@@ -28,7 +28,7 @@ namespace XTBarber.Controllers
         public ActionResult thanhtoan()
         {
             return View();
-        }
+        } 
 
         public ActionResult dangnhap()
         {
