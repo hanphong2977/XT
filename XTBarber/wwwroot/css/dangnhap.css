@@ -95,6 +95,11 @@
     font-weight: 600;
 }
 
+.btn:hover {
+    color: #fff;
+    background: #ad9551;
+}
+
 .register-link {
     font-size: 14.5px;
     text-align: center;
