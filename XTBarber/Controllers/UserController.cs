@@ -29,15 +29,5 @@ namespace XTBarber.Controllers
         {
             return View();
         }
-
-        public ActionResult dangnhap()
-        {
-            return View();
-        }
-
-        public ActionResult dangky()
-        {
-            return View();
-        }
     }
 }
