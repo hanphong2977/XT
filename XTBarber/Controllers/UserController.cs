@@ -39,5 +39,19 @@ namespace XTBarber.Controllers
         {
             return View();
         }
+
+        public ActionResult quenmatkhau() {
+            return View();
+        }
+
+        public ActionResult xacnhanemail()
+        {
+            return View();
+        }
+
+        public ActionResult matkhaumoi()
+        {
+            return View();
+        }
     }
 }
